@@ -57,7 +57,7 @@ public final class R {
         public static final int member_name=0x7f080012;
         public static final int member_port=0x7f080014;
         public static final int myButton=0x7f080017;
-        public static final int onoffbutton=0x7f080023;
+        public static final int off30secondbutton=0x7f080023;
         public static final int onoffbutton1=0x7f080016;
         public static final int onoffbutton2=0x7f080018;
         public static final int onoffbutton3=0x7f080019;
@@ -65,7 +65,7 @@ public final class R {
         public static final int onoffbutton5=0x7f08001b;
         public static final int onoffbutton6=0x7f08001c;
         public static final int onoffbutton7=0x7f08001d;
-        public static final int onoffbutton8=0x7f08001e;
+        public static final int onofftimer1minutebutton8=0x7f08001e;
         public static final int seekBar1=0x7f080020;
         public static final int sensorbutton=0x7f080024;
         public static final int spinner1=0x7f080008;
@@ -79,7 +79,7 @@ public final class R {
         public static final int add_member=0x7f030002;
         public static final int modify_member=0x7f030003;
         public static final int view_member_entry=0x7f030004;
-        public static final int wifi_eight_relay=0x7f030005;
+        public static final int bleu wifi_console=0x7f030005;
         public static final int wifi_four_relay=0x7f030006;
         public static final int wifi_single_relay=0x7f030007;
         public static final int wifi_three_relay=0x7f030008;
